@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+nav{
+	text-align: center;
+	border-color: aqua
+}
+
+
+h1 {
+	color: lime;
+	text-align: center;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	 
+	
+}
+
+body p2 p {
+	text-align: center;
+
+
+}
+
+
+									ol {color: cyan}
+
+body {background: #5290DB;
+
+}
+img {border-image: url(images/image.jpg)
+
+}
